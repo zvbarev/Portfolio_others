@@ -64,4 +64,4 @@
 
 ## Используемые библиотеки
 
-pandas, numpy, scipy, math, matplotlib, seaborn, plotly
+pandas, numpy, scipy, math, matplotlib, seaborn, plotly, wordcloud
